@@ -1,6 +1,6 @@
 # CIFAR10_Models
 ## 前提条件
-・Mac（Apple Sillicon）のconda環境  
+・Mac（Apple Silicon）のconda環境  
 ・MPSまたはCPUで動作  
 ## 精度
 ・CIFAR-10_v2.pyが出力するモデルで約90%  
